@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c5b6464-eb7f-4ba1-9124-5a1c49066693" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/rdc/scr/miam/Aliment.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/rdc/scr/miam/Four.java" afterPath="$PROJECT_DIR$/src/rdc/scr/miam/Four.java" />
-      <change beforePath="$PROJECT_DIR$/src/rdc/scr/youri/Main.java" afterPath="$PROJECT_DIR$/src/rdc/scr/youri/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,17 +25,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Four.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Four.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/rdc/scr/miam/Four.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="64" lean-forward="false" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+            <state relative-caret-position="255">
+              <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Aliment.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Aliment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/rdc/scr/miam/Aliment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -69,8 +67,8 @@
       <list>
         <option value="$PROJECT_DIR$/README" />
         <option value="$PROJECT_DIR$/src/rdc/scr/youri/Main.java" />
-        <option value="$PROJECT_DIR$/src/rdc/scr/miam/Four.java" />
         <option value="$PROJECT_DIR$/src/rdc/scr/miam/Aliment.java" />
+        <option value="$PROJECT_DIR$/src/rdc/scr/miam/Four.java" />
       </list>
     </option>
   </component>
@@ -212,7 +210,7 @@
       <option name="presentableId" value="Default" />
       <updated>1553990810060</updated>
       <workItem from="1553990812067" duration="1440000" />
-      <workItem from="1554014390310" duration="2165000" />
+      <workItem from="1554014390310" duration="2507000" />
     </task>
     <task id="LOCAL-00001" summary="ajoute de la class Four dans miam:&#10;-attribut&#10;-methode">
       <created>1554015317674</created>
@@ -221,11 +219,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554015317674</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ajoute de la class Aliment dans miam:&#10;-attribut&#10;-methode">
+      <created>1554016591654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554016591655</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3605000" />
+    <option name="totallyTimeSpent" value="3947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="676" y="0" width="697" height="775" extended-state="0" />
@@ -240,7 +245,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33385336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33385336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -269,7 +274,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ajoute de la class Four dans miam:&#10;-attribut&#10;-methode" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajoute de la class Four dans miam:&#10;-attribut&#10;-methode" />
+    <MESSAGE value="ajoute de la class Aliment dans miam:&#10;-attribut&#10;-methode" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajoute de la class Aliment dans miam:&#10;-attribut&#10;-methode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -303,18 +309,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rdc/scr/miam/Four.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="64" lean-forward="false" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/rdc/scr/miam/Aliment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="70" lean-forward="false" selection-start-line="12" selection-start-column="70" selection-end-line="12" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rdc/scr/miam/Four.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding />
         </state>
       </provider>
